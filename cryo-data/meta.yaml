@@ -1,0 +1,12 @@
+cryo_data_name: Cheng_2020_CALFIN_1972-2019_DRYAD
+references:
+  data:
+    doi: 10.7280/D1FH5D
+  science:
+    doi: 10.5194/tc-15-1663-2021
+
+aka:
+  author: cheng_2020
+  data_provider: dryad/CALFIN
+  project: CALFIN_1972-2019
+  other:
